@@ -7,3 +7,8 @@
     driver.set_page_load_timeout(30)
     
  
+ 
+ 
+ [Python Selenium 中 Chrome 的一些设置参数](https://blog.kelu.org/tech/2017/08/03/python-selenium-headers.html)   
+    
+ 
